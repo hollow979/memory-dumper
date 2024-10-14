@@ -1,12 +1,10 @@
-# Memory Dumper by hollow979
-
 A Windows-based tool that scans and dumps memory allocations from a target process, before and after injection, into a binary file.
 
 ## Features
 
 - Scans all memory allocations of a target process.
 - Tracks memory changes after injection by comparing pre- and post-injection memory allocations.
-- Dumps new memory allocations to a binary file for further analysis.
+- Dumps new memory allocations to a binary file for further analysis or rebuilding.
 
 ## Usage
 
